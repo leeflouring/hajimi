@@ -1,0 +1,23 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+wiki/
+LICENSE
+*.md
+
+# IDE and OS specific
+.idea/
+*.DS_Store
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Docker
+Dockerfile
+.dockerignore
